@@ -9,9 +9,16 @@
       background-image: url("/images/hu-chen-60XLoOgwkfA-unsplash.jpg");
       background-size: 100%;
       background-repeat: no-repeat;
-  /* }
+  }
   .header {
       text-align: center;
-      margin-top: 7cm;
+      margin-top: 5cm;
       font-size: 0.8cm;
-  } */
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .description {
+      margin-left: 3cm;
+      margin-right: 3cm;
+      font-size: 0.6cm;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+  }
