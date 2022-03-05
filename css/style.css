@@ -6,21 +6,22 @@
     box-sizing: inherit;
   }
   body {
-      /* background-image: url(./images/—Pngtree—plant-golden-line-double-border_1465569.jpg); */
       background-size: 100%;
       background-repeat: no-repeat;
   }
   .header {
       text-align: center;
-      margin-top: 5cm;
+      margin-top: 6cm;
       font-size: 0.8cm;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .description {
-      margin-left: 3cm;
-      margin-right: 3cm;
-      font-size: 0.6cm;
-      font-family:Georgia, 'Times New Roman', Times, serif;
+      margin-left: 5.3cm;
+      margin-right: 5.3cm;
+      margin-top: 1cm;
+      font-size: 0.8cm;
+      font-weight: 400;
+      font-family: 'Hubballi', cursive;
   }
     .form {
         display: flex;
@@ -54,3 +55,9 @@
         padding: 5px 4px;
         margin-top: 0.5cm;
     }  
+    #yourResult {
+        font-family: 'Caveat', cursive;
+        font-size: 1.3cm;
+        font-weight: bolder;
+        
+    }

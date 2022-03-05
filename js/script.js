@@ -20,7 +20,7 @@ submitbtn.addEventListener("click", function(event) {
             function getFemaleAkanName(dayOfWeek) {
                 var herAkanName = femaleNames[dayOfWeek] ;
                 console.log(herAkanName);
-                document.getElementById("yourResult").innerHTML = "Your Akan Name is " + herAkanName ;
+                document.getElementById("yourResult").innerHTML = "Your Akan Name is " + herAkanName + "!";
             }
             getFemaleAkanName(dayOfWeek) ;
 
@@ -30,7 +30,7 @@ submitbtn.addEventListener("click", function(event) {
             function getMaleAkanName(dayOfWeek) {
                 var hisAkanName = maleNames[dayOfWeek] ;
                 console.log(hisAkanName);
-                document.getElementById("yourResult").innerHTML = "Your Akan Name is " + hisAkanName ;
+                document.getElementById("yourResult").innerHTML = "Your Akan Name is " + hisAkanName  + "!";
             }
             getMaleAkanName(dayOfWeek) ;
         }
