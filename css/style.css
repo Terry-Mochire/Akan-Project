@@ -23,6 +23,13 @@
       font-weight: 400;
       font-family: 'Hubballi', cursive;
   }
+  a:link {
+      text-decoration: none;
+  }
+  a:visited {
+      color: #741556;
+  }
+
     .form {
         display: flex;
         justify-content: center;
