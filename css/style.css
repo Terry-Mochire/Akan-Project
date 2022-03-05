@@ -6,8 +6,8 @@
     box-sizing: inherit;
   }
   body {
-      background-image: url("images/hu-chen-60XLoOgwkfA-unsplash.jpg");
-      background-size: 100%;
+      background-image: url("/images/hu-chen-60XLoOgwkfA-unsplash.jpg");
+      background-size: 48cm;
       background-repeat: no-repeat;
   }
   .header {
