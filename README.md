@@ -1,5 +1,5 @@
 # AKAN PROJECT
-<img src="images/Screenshot-2022-03-06-at-01.25.22.jpg" width="100" height="20">
+<img src="images/Screenshot-2022-03-06-at-01.25.22.jpg" width="10cm" height="10cm">
 #### Description
 This project is to build a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture, where children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 
