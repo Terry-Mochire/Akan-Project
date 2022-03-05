@@ -1,5 +1,6 @@
 # AKAN PROJECT
 
+![Snapshot] (/images/Screenshot-2022-03-06-at-01.25.22.jpg)
 #### Description
 This project is to build a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture, where children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 
@@ -7,7 +8,7 @@ This project is to build a web application that takes a user's birthday and calc
 Created on 4-03-2022, by TERRY MOCHIRE.
 
 ## Setup Instructions
-The website will run on latest browser versions.
+The website will run on latest browser versions. Desired ViewPort is 1024px.
 To contribute, or have the project as a base for your own, you can fork the project from GitHub then clone it to your local machine.
 
 ## Behaviour Driven Development
@@ -29,6 +30,8 @@ To contribute, or have the project as a base for your own, you can fork the proj
 3. BOOTSTRAP
 4. JAVASCRIPT
 
+## Known Bugs
+The page has not yet been designed to be responsive. Desired View Port is 1024px.
 ## Contact Information
 * LinkedIn (https://www.linkedin.com/in/terry-mochire/)
 * Email (terrymochire@gmail.com)
