@@ -22,3 +22,35 @@
       font-size: 0.6cm;
       font-family:Georgia, 'Times New Roman', Times, serif;
   }
+    .form {
+        display: flex;
+        justify-content: center;
+        /* background-color: #fff; */
+        font-size: 22px;
+    }
+    input[type=date]  {
+        width: 20cm;
+        padding: 12px 20px;
+        margin: 20px;
+    }
+    .DOB {
+        font-weight: 600 ;
+    }
+   .gender-dropdown {
+        font-weight: 600 ;
+    }
+    select {
+        margin-left: 0.6cm;
+        padding: 10px 20px;
+    }
+    input[type=button] {
+        width: 2.5cm;
+        padding: 5px 4px;
+        margin-left: 10cm;
+        margin-top: 0.5cm;
+    } 
+    input[type=reset] {
+        width: 2.5cm;
+        padding: 5px 4px;
+        margin-top: 0.5cm;
+    }  
